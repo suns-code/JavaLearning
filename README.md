@@ -1,2 +1,2 @@
-# JavaLearning
-### 一、java基础知识
+# 用来监督Java学习进度。
+
